@@ -52,4 +52,15 @@ I made use of the following resources in order to plan and visualise my project,
 -code institue learning resources. Very helpful for things like being reminded of some coding language sequences
 -youtube. Many tutorial videos on how to use things like GitHub and coding language issues
 -general online help such as google for looking up issues
+-Balsamiq in order to create a basic wireframe design 
+
+
+Basic Wireframe Design
+
+Once I had the basic scope and logic in place, I then proceeded to design a visual representation of what is needed for the basic functionality of the project from a user's point of view and how I would represent that.
+
+![image](https://github.com/IrishDermot/sith_ly_the_best/assets/132934139/506d21a1-6f44-442a-9f94-b4346a524de0)
+
+
+
 
