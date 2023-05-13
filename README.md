@@ -11,9 +11,6 @@ Project Scope
 Basic Wireframe Design
 Landing Page Wireframe
 Products Page Wireframe
-Product Detail Page Wireframe
-Shopping Cart Wireframe
-Checkout Page Wireframe
 Agile
 Project Setup
 
